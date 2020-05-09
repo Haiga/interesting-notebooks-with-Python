@@ -22,10 +22,10 @@ Personalização de Plots, Comparação de Bibliotecas, Crawlers ...
 
 <div class="row">
   <div class="column">
-<img src="https://pedro-henr.github.io/portfolio/images/gitplot/1.jpg" width="40%" height="40%">
+<img src="https://pedro-henr.github.io/portfolio/images/gitplot/1.jpg" width="30%" height="30%">
   </div>
   <div class="column">
-<img src="https://pedro-henr.github.io/portfolio/images/gitplot/2.jpg" width="40%" height="40%">
+<img src="https://pedro-henr.github.io/portfolio/images/gitplot/2.jpg" width="30%" height="30%">
     </div>
   <div class="column">
 <img src="https://pedro-henr.github.io/portfolio/images/gitplot/3.png" width="40%" height="40%">
@@ -41,15 +41,3 @@ Personalização de Plots, Comparação de Bibliotecas, Crawlers ...
 </div>
 </div>
 
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
