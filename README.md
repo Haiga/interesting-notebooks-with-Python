@@ -22,20 +22,28 @@ Personalização de Plots, Comparação de Bibliotecas, Crawlers ...
 
 * [Exemplo 1](https://github.com/Haiga/PythonNotebooks/blob/master/Visualiza%C3%A7%C3%A3o%20de%20Dados/degradation_histogram.ipynb)
 <img src="https://pedro-henr.github.io/portfolio/images/gitplot/1.jpg" width="40%" height="40%">
+
 * [Exemplo 2](https://github.com/Haiga/PythonNotebooks/blob/master/Visualiza%C3%A7%C3%A3o%20de%20Dados/colorbar_heat_bar.ipynb)
 <img src="https://pedro-henr.github.io/portfolio/images/gitplot/2.jpg" width="40%" height="40%">
+
 * [Exemplo 3](https://github.com/Haiga/PythonNotebooks/blob/master/Visualiza%C3%A7%C3%A3o%20de%20Dados/bar_custmom_with_marker_or_Image_histogram.ipynb)
 <img src="https://pedro-henr.github.io/portfolio/images/gitplot/3.png" width="40%" height="40%">
+
 * [Exemplo 4](https://github.com/Haiga/PythonNotebooks/blob/master/Visualiza%C3%A7%C3%A3o%20de%20Dados/plot_inside_plot_beautiful_colors.ipynb)
 <img src="https://pedro-henr.github.io/portfolio/images/gitplot/4.png" width="40%" height="40%">
+
 * [Exemplo 5](https://github.com/Haiga/PythonNotebooks/blob/master/Visualiza%C3%A7%C3%A3o%20de%20Dados/timeline-priestley-(viv%C3%AAncia).ipynb)
 <img src="https://pedro-henr.github.io/portfolio/images/gitplot/5.png" width="40%" height="40%">
+
 * [Exemplo 6](https://github.com/Haiga/PythonNotebooks/blob/master/Visualiza%C3%A7%C3%A3o%20de%20Dados/fill_between.ipynb)
 <img src="https://pedro-henr.github.io/portfolio/images/gitplot/6.jpg" width="40%" height="40%">
+
 * [Exemplo 7](https://github.com/Haiga/PythonNotebooks/blob/master/Visualiza%C3%A7%C3%A3o%20de%20Dados/plot_inside_plot_beautiful_colors.ipynb)
 <img src="https://pedro-henr.github.io/portfolio/images/gitplot/7.png" width="40%" height="40%">
+
 * [Exemplo 8](https://github.com/Haiga/PythonNotebooks/blob/master/Visualiza%C3%A7%C3%A3o%20de%20Dados/legendas-matplot.ipynb)
 <img src="https://pedro-henr.github.io/portfolio/images/gitplot/8.png" width="40%" height="40%">
+
 * [Exemplo 9](https://github.com/Haiga/PythonNotebooks/blob/master/Visualiza%C3%A7%C3%A3o%20de%20Dados/marginal_plot.ipynb)
 <img src="https://pedro-henr.github.io/portfolio/images/gitplot/9.png" width="40%" height="40%">
 
