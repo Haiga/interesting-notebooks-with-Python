@@ -1,7 +1,7 @@
 # PythonNotebooks
 Personalização de Plots, Comparação de Bibliotecas, Crawlers ...
 
-<img src="https://pedro-henr.github.io/portfolio/images/gitplot/1.jpg" width="20" height="20">
+<img src="https://pedro-henr.github.io/portfolio/images/gitplot/1.jpg" width="50%" height="50%">
 
 
 
