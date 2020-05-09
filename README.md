@@ -40,3 +40,16 @@ Personalização de Plots, Comparação de Bibliotecas, Crawlers ...
 <img src="https://pedro-henr.github.io/portfolio/images/gitplot/6.jpg" width="40%" height="40%">
 </div>
 </div>
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
