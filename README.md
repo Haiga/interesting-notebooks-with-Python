@@ -22,7 +22,7 @@ Personalização de Plots, Comparação de Bibliotecas, Crawlers ...
 
 <img src="https://pedro-henr.github.io/portfolio/images/gitplot/1.jpg" width="40%" height="40%">
 <img src="https://pedro-henr.github.io/portfolio/images/gitplot/2.jpg" width="40%" height="40%">
-<img src="https://pedro-henr.github.io/portfolio/images/gitplot/3.jpg" width="40%" height="40%">
-<img src="https://pedro-henr.github.io/portfolio/images/gitplot/4.jpg" width="40%" height="40%">
-<img src="https://pedro-henr.github.io/portfolio/images/gitplot/5.jpg" width="40%" height="40%">
+<img src="https://pedro-henr.github.io/portfolio/images/gitplot/3.png" width="40%" height="40%">
+<img src="https://pedro-henr.github.io/portfolio/images/gitplot/4.png" width="40%" height="40%">
+<img src="https://pedro-henr.github.io/portfolio/images/gitplot/5.png" width="40%" height="40%">
 <img src="https://pedro-henr.github.io/portfolio/images/gitplot/6.jpg" width="40%" height="40%">
