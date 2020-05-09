@@ -20,6 +20,7 @@ Personalização de Plots, Comparação de Bibliotecas, Crawlers ...
 
 # Examples
 
+* [Visualização de Dados](https://github.com/Haiga/PythonNotebooks/tree/master/Visualiza%C3%A7%C3%A3o%20de%20Dados)
 <img src="https://pedro-henr.github.io/portfolio/images/gitplot/1.jpg" width="40%" height="40%">
 <img src="https://pedro-henr.github.io/portfolio/images/gitplot/2.jpg" width="40%" height="40%">
 <img src="https://pedro-henr.github.io/portfolio/images/gitplot/3.png" width="40%" height="40%">
