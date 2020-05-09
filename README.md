@@ -1,10 +1,5 @@
 # PythonNotebooks
 Personalização de Plots, Comparação de Bibliotecas, Crawlers ...
-
-<img src="https://pedro-henr.github.io/portfolio/images/gitplot/1.jpg" width="50%" height="50%">
-
-
-
 ## Notebooks desenvolvidos no Colaboratory ou simplesmente “Colab”
 * [Google Colab](https://colab.research.google.com/) 
 
@@ -23,4 +18,11 @@ Personalização de Plots, Comparação de Bibliotecas, Crawlers ...
 * [NumPy](https://numpy.org/) - NumPy is the fundamental package for scientific computing with Python.
 * [Threading](https://docs.python.org/3/library/threading.html) - Thread-based parallelism
 
+# Examples
 
+<img src="https://pedro-henr.github.io/portfolio/images/gitplot/1.jpg" width="40%" height="40%">
+<img src="https://pedro-henr.github.io/portfolio/images/gitplot/2.jpg" width="40%" height="40%">
+<img src="https://pedro-henr.github.io/portfolio/images/gitplot/3.jpg" width="40%" height="40%">
+<img src="https://pedro-henr.github.io/portfolio/images/gitplot/4.jpg" width="40%" height="40%">
+<img src="https://pedro-henr.github.io/portfolio/images/gitplot/5.jpg" width="40%" height="40%">
+<img src="https://pedro-henr.github.io/portfolio/images/gitplot/6.jpg" width="40%" height="40%">
