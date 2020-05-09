@@ -1,7 +1,7 @@
 # PythonNotebooks
 Personalização de Plots, Comparação de Bibliotecas, Crawlers ...
 
-![](https://pedro-henr.github.io/portfolio/images/gitplot/1.jpg | width=20)
+![](https://pedro-henr.github.io/portfolio/images/gitplot/1.jpg?v=4&s=200)
 
 ## Notebooks desenvolvidos no Colaboratory ou simplesmente “Colab”
 * [Google Colab](https://colab.research.google.com/) 
