@@ -24,4 +24,12 @@ ax.zaxis._axinfo['juggled'] = (1, 2, 0)
 
 # Remove os ticks do y na lateral esquerda
 ax.yaxis.set_ticks([])
+
+# Rotate the figure
+ax.view_init(10, -95)
+# for angle in range(0, 360):
+#     ax.view_init(30, angle)
+#     plt.draw()
+#     plt.pause(.001)
+
 plt.show()
